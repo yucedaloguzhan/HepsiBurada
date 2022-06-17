@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="41.928">
+<testcase classname="Konum Kontrol" name="HepsiBurada konum kontrol" time="41.686">
+<system-out><![CDATA[Given Anasayfada konum alanina tiklanir.....................................passed
+When il, ilce ve mahalle secilir ve kaydet butonuna tiklanir................passed
+Then Konumunuz kaydedildi popup kontrol edilir..............................passed
+Then Tab bar uzerinden kategoriler tabina tiklanir..........................passed
+Then Herhangi bir kategori secilip listeleme sayfasina yonlenilir...........passed
+And Listeleme sayfasinda Yarin Kapinda alaninda gelen il bilgisi ile anasayfada secilen il bilgisinin ayni oldugu kontrol edilir..passed
+]]></system-out>
+</testcase>
+</testsuite>
